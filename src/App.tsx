@@ -16,7 +16,7 @@ function App() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-3">
               <img 
-                src="C:\Users\lipec\Downloads\channels4_profile.jpg" 
+                src="C:https://cdn.discordapp.com/attachments/1165001939696746526/1389672732937031823/channels4_profile.jpg?ex=68657916&is=68642796&hm=a72fd8eaaebe9e2773dbcd28327d4835e5d4cf322868557d1dd3395e7ad887f2&" 
                 alt="Soluções de Energia Logo" 
                 className="w-10 h-10 rounded-lg object-cover"
               />
