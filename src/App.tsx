@@ -16,7 +16,7 @@ function App() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-3">
               <img 
-                src="/public/channels4_profile.jpg" 
+                src="C:\Users\lipec\Downloads\channels4_profile.jpg" 
                 alt="Soluções de Energia Logo" 
                 className="w-10 h-10 rounded-lg object-cover"
               />
